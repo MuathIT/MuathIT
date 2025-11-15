@@ -54,6 +54,7 @@
 
 ---
 
-## 📫 Contact
-📧 Email: m.alrsaini@gmail.com  
-🌐 GitHub: [https://github.com/MuathIT](https://github.com/MuathIT)
+## 📬 Contact
+- GitHub: [MuathIT](https://github.com/MuathIT)  
+- Email: m.alrsaini@gmail.com  
+- LinkedIn: [Muath Al-Rsaini](https://www.linkedin.com/in/muath-al-rsaini-60322836b/)
