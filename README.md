@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuathIT&repo=Skillsy-App&theme=radical" alt="Skillsy App" width="200"/>
 </a>
 
-<a href="https://github.com/MuathIT/Python-ATM-Project">
+<a href="[https://github.com/MuathIT/Python-ATM-Project](https://github.com/MuathIT/Python-ATM-Project)">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuathIT&repo=python-ATM&theme=radical" alt="Python ATM" width="200"/>
 </a>
 
