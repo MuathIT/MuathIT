@@ -21,15 +21,15 @@
 ## 📌 Featured Projects
 <div align="center">
 
-<a href="https://github.com/MuathIT/Skillsy-App">
+<a href="https://github.com/MuathIT/Skillsy-App" style="margin: 15px;">
   <img src="https://img.shields.io/badge/Skillsy--App-Repo-blue?style=for-the-badge" width="200"/>
 </a>
 
-<a href="https://github.com/MuathIT/Python-ATM-Project">
+<a href="https://github.com/MuathIT/Python-ATM-Project" style="margin: 15px;">
   <img src="https://img.shields.io/badge/Python--ATM--Project-Repo-blue?style=for-the-badge" width="200"/>
 </a>
 
-<a href="https://github.com/MuathIT/Travel-App">
+<a href="https://github.com/MuathIT/Travel-App" style="margin: 15px;">
   <img src="https://img.shields.io/badge/Travel--App-Repo-blue?style=for-the-badge" width="200"/>
 </a>
 
