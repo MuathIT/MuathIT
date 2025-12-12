@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://github.com/MuathIT/Python-ATM-Project">
-  <img src="https://img.shields.io/badge/Python--ATM--Project-Repo-blue?style=for-the-badge" width="200" height="70"/>
+  <img src="https://img.shields.io/badge/Python--ATM--Project-Repo-blue?style=for-the-badge" width="200"/>
 </a>
 
 <a href="https://github.com/MuathIT/Travel-App">
