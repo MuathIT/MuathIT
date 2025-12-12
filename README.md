@@ -19,19 +19,18 @@
 ---
 
 ## 📌 Featured Projects
-
 <div align="center">
 
 <a href="https://github.com/MuathIT/Skillsy-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuathIT&repo=Skillsy-App&theme=radical" alt="Skillsy App" width="200"/>
+  <img src="https://img.shields.io/badge/Skillsy--App-Repo-blue?style=for-the-badge" width="200"/>
 </a>
 
 <a href="https://github.com/MuathIT/Python-ATM-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuathIT&repo=Python-ATM-Project&theme=radical" alt="Python ATM" width="200"/>
+  <img src="https://img.shields.io/badge/Python--ATM--Project-Repo-blue?style=for-the-badge" width="200"/>
 </a>
 
 <a href="https://github.com/MuathIT/Travel-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuathIT&repo=Travel-App&theme=radical" alt="Travel App" width="200"/>
+  <img src="https://img.shields.io/badge/Travel--App-Repo-blue?style=for-the-badge" width="200"/>
 </a>
 
 </div>
